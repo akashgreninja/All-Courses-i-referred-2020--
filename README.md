@@ -20,7 +20,10 @@ System Designs => https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnv
 Appwrite => Docs are sufficient  
 Firebase => Docs are Sufficient  
 SQL => https://www.linkedin.com/learning/sql-essential-training-2019/understanding-sql?u=60693444  
-+ a lot of LinkedIn posts
++ a lot of LinkedIn posts  
+Linux shell scripting => https://www.udemy.com/course/linux-shell-scripting-projects/
+
+
 
 
 
